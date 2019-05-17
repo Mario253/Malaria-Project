@@ -1,0 +1,71 @@
+html {
+	font-family: sans-serif;
+	background-color: #ffcf5c;
+}
+
+h1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#main {
+	background-image: url("images/mosquito1.jpg");
+	background-size: 500px;
+	height: 25px;
+	max-width: 500px;
+	padding: 175px 0;
+	text-align: center;
+	color: #4920ff;
+}
+
+#symptoms {
+	background-image: url("images/malariacells.jpg");
+	background-size: 500px;
+	height: 25px;
+	max-width: 500px;
+	padding: 90px 0;
+	text-align: center;
+	color: #4920ff;
+}
+
+#info {
+	background-image: url("images/cells2.jpg");
+	background-size: 500px;
+	height: 40px;
+	max-width: 500px;
+	padding: 150px 0;
+	text-align: center;
+	color: #4920ff;
+}
+
+#treatment {
+	background-image: url("images/mosquito2.jpg");
+	background-size: 500px;
+	height: 40px;
+	max-width: 500px;
+	padding: 80px 0;
+	text-align: center;
+	color: #4920ff;
+}
+
+#biblio {
+	background-image: url("images/cells3.jpg");
+	background-size: 500px;
+	height: 40px;
+	max-width: 500px;
+	padding: 220px 0;
+	text-align: center;
+	color: #4920ff;
+}
+
+nav {
+	float: right;
+	width: 100px;
+	border: solid #aaaaaa;
+	padding: 10px;
+	margin: 10px;
+	line-height: 2;
+}
